@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chris44m&label=Profile%20views&color=0e75b6&style=flat" alt="chris44m" /> </p>
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **JUnit**
 
 - 📫 How to reach me **chris.29.01.44@gmail.com**
 
